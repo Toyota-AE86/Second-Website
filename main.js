@@ -1,2 +1,2 @@
 
-document.getElementById("content").innerHTML = Henlo
+document.getElementById("content").innerHTML = "Henlo"
